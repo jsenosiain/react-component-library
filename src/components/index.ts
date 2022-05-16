@@ -1,1 +1,2 @@
-export { default as PackageList } from "./PackageList";
+export { default as Dependencies } from "./Dependencies";
+export { default as List } from "./List";
